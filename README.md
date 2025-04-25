@@ -38,7 +38,8 @@ int main() {
 }
 ```
 # OUTPUT:
-![Uploading Screenshot 2025-04-25 at 1.31.20 PM.png…]()
+<img width="1440" alt="Screenshot 2025-04-25 at 1 31 20 PM" src="https://github.com/user-attachments/assets/27a5b901-c255-42ca-9514-9e47cd6a82fc" />
+
 
 # RESULT:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is verified
